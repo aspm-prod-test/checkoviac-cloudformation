@@ -35,4 +35,4 @@ Blog --> https://medium.com/@gmusumeci/how-to-build-step-by-step-a-multi-cloud-w
 **terraform.tfvars** --> cloud credentials
 
 
-test commit1
+test commit2
